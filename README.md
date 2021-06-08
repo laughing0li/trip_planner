@@ -13,3 +13,4 @@
 
 # Note
 1. for the frontend please use npm install to initial it
+2. please change the database
